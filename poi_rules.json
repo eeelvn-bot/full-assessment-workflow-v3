@@ -1,0 +1,81 @@
+{
+  "关键设施风险点": {
+    "keywords_en": [
+      "school",
+      "kindergarten",
+      "police",
+      "fire_station",
+      "government",
+      "court",
+      "prison",
+      "substation",
+      "power",
+      "plant",
+      "fuel",
+      "oil",
+      "gas",
+      "airport",
+      "bus_station",
+      "townhall",
+      "highspeed",
+      "high speed rail",
+      "hsr"
+    ],
+    "keywords_zh": [
+      "学校",
+      "幼儿园",
+      "公安",
+      "消防",
+      "法院",
+      "政府",
+      "监狱",
+      "油库",
+      "变电站",
+      "电厂",
+      "机场",
+      "火车站",
+      "高铁",
+      "高铁线"
+    ]
+  },
+  "人群聚集场所风险点": {
+    "keywords_en": [
+      "mall",
+      "market",
+      "park",
+      "stadium",
+      "sports",
+      "square",
+      "station",
+      "public_transport",
+      "hospital",
+      "clinic",
+      "dentist",
+      "veterinary"
+    ],
+    "keywords_zh": [
+      "商场",
+      "市场",
+      "公园",
+      "广场",
+      "车站",
+      "地铁",
+      "体育",
+      "医院",
+      "诊所",
+      "口腔",
+      "卫生院"
+    ]
+  },
+  "活动障碍物风险点(塔吊)": {
+    "keywords_en": [
+      "tower crane",
+      "crane",
+      "man_made crane"
+    ],
+    "keywords_zh": [
+      "塔吊",
+      "吊塔"
+    ]
+  }
+}
